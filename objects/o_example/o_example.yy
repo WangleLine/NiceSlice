@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Example",
+    "path": "folders/NiceSlice/Example.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_example",
