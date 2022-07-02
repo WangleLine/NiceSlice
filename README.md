@@ -12,9 +12,9 @@ This is by only scaling, tiling, or otherwise transforming connecting pieces of 
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 320px">
   
- However, Gamemaker's native nine-slice feature does not allow the user to change the internal scale of a nine-sliced sprite,
- which is bad news for anyone trying to, say, render scaled-up pixelart UI elements.
+However, Gamemaker's native nine-slice feature does not allow the user to change the internal scale of a nine-sliced sprite,
+which is bad news for anyone trying to, say, render scaled-up pixelart UI elements.
  
- I was so bothered by this, I made a library.
+I was so bothered by this, I made a library.
  
- - Line
+~ Line
