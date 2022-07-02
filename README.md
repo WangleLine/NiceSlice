@@ -4,7 +4,7 @@ An extended nine-slice library for Gamemaker.
 In version 2.3.2, Gamemaker introduced a feature called *nine-slice*,
 which allows the user to easily create visual elements that scale to various sizes without distortion.
 
-This is by only scaling, tiling, or otherwise transforming connecting pieces of a sprite element, but keeping corners unchanged.
+This is done by scaling, tiling, or otherwise transforming only the connecting pieces of a sprite element, but keeping corners unchanged.
 
 <img
   src="https://i.imgur.com/DKphaUv.png"
