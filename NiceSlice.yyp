@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"s_example","path":"sprites/s_example/s_example.yy",},"order":0,},
+    {"id":{"name":"o_example","path":"objects/o_example/o_example.yy",},"order":0,},
     {"id":{"name":"NiceSlice","path":"scripts/NiceSlice/NiceSlice.yy",},"order":0,},
     {"id":{"name":"r_example","path":"rooms/r_example/r_example.yy",},"order":0,},
   ],

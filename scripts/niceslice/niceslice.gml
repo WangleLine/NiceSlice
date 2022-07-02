@@ -1,6 +1,7 @@
 // Draw Sprite Nine Sliced
-function draw_niceslice(sprite,subimg,x,y,width,height,color,alpha,border,scale)
+function draw_niceslice(sprite,subimg,x,y,width,height,border,internal_scale,color=c_white,alpha=1)
 {
+	var scale = internal_scale;
 	var sprite_w = sprite_get_width(sprite);
 	var sprite_h = sprite_get_height(sprite);
 	var side_length_raw_w = sprite_h-(border*2);
