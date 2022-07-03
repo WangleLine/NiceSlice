@@ -1,7 +1,7 @@
 // NiceSlice Examples
-draw_niceslice(s_example,0,100,100,140,100,6,internal_scale);
-draw_niceslice(s_example,0,260,100,300,300,6,internal_scale);
-draw_niceslice(s_example,0,100,220,80,300,6,internal_scale);
+draw_niceslice(s_example,0,100,100,140,100,6,6,internal_scale);
+draw_niceslice(s_example,0,260,100,300,300,6,6,internal_scale);
+draw_niceslice(s_example,0,100,220,80,300,6,6,internal_scale);
 
 // Text
 draw_set_halign(fa_right);
