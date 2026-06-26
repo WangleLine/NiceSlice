@@ -10,7 +10,6 @@
 /// @arg {Real} internal_scale
 /// @arg {Asset.GMColor} color
 /// @arg {Real} alpha
-/// @pure
 function draw_niceslice(sprite,subimg,x,y,width,height,border_width,border_height,internal_scale,color=c_white,alpha=1)
 {
 	var scale = internal_scale;
