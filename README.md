@@ -19,7 +19,7 @@ This is done by scaling, tiling, or otherwise transforming only the connecting p
 However, Gamemaker's native nine-slice feature does not allow the user to change the internal scale of a nine-sliced sprite,
 which is bad news for anyone trying to, say, render scaled-up pixelart UI elements.
  
-I was so bothered by this, I made a library.
+I was bothered by this and made a tiny library.
 
 https://github.com/user-attachments/assets/94c996a4-df0e-4263-b8e8-12fb065cb56b
  
