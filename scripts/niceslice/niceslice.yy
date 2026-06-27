@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "NiceSlice",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "NiceSlice",
-    "path": "folders/NiceSlice.yy",
+  "$GMScript":"v1",
+  "%Name":"NiceSlice",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NiceSlice",
+  "parent":{
+    "name":"NiceSlice",
+    "path":"folders/NiceSlice.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
