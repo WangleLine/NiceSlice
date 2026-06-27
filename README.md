@@ -1,3 +1,7 @@
+
+
+
+
 ### NiceSlice
 An extended nine-slice library for Gamemaker.
 
@@ -17,6 +21,6 @@ which is bad news for anyone trying to, say, render scaled-up pixelart UI elemen
  
 I was so bothered by this, I made a library.
 
-[Internal Scale Example](https://github.com/YoYoGames/GameMaker-Feature-Requests/assets/34343336/45c7e8dc-7733-4f12-b736-2f9ae18c8e57)
+https://github.com/user-attachments/assets/94c996a4-df0e-4263-b8e8-12fb065cb56b
  
 ~ Line
